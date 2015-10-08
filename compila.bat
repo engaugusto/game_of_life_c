@@ -1,0 +1,1 @@
+g++ -I MinGW\include -L MinGW\lib\libgdi32.a -mwindows -o hello.exe main.c
